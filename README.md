@@ -32,7 +32,7 @@ Bu ders, öğrencilere Nesne Yönelimli Programlama (OOP) paradigmalarını Pyth
 
 ## 📚 Kaynaklar ve Geliştirme Ortamı
 * **Programlama Dili:** Python 3.10+
-* **Editör / IDE:** Visual Studio Code veya PyCharm
+* **Editör / IDE:** [Visual Studio Code](https://code.visualstudio.com/download?_exp_download=fb315fc982) veya [Anaconda](https://www.anaconda.com/download)
 * **Ana Kaynak:** [Python Resmi Dokümantasyonu](https://docs.python.org/3/)
 * **Versiyon Kontrolü:** Git ve GitHub
 
