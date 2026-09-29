@@ -14,15 +14,15 @@ Bu ders, öğrencilere Nesne Yönelimli Programlama (OOP) paradigmalarını Pyth
 | Hafta | Konu Başlığı | İlgili Materyal / Notlar | Görev / Ödev |
 | :---: | :--- | :--- | :--- |
 | **1** | OOP Paradigmalarına Giriş ve Temel Kavramlar | [Hafta 1 Notları](./Hafta-01-Giris.md) | - |
-| **2** | Sınıflar (Classes) ve Nesneler (Objects) | [Hafta 2 Notları](./Hafta-02-Siniflar-ve-Nesneler.md) | Hafta 2 Görevi |
+| **2** | Sınıflar (Classes) ve Nesneler (Objects) | [Hafta 2 Notları](./Hafta-02-Siniflar-ve-Nesneler.md) | - |
 | **3** | Yapıcı Metotlar (`__init__`) ve Sınıf Nitelikleri | [Hafta 3 Notları](./Hafta-03-Yapici-Metotlar.md) | - |
-| **4** | Kapsülleme (Encapsulation) ve Erişim Belirleyiciler | [Hafta 4 Notları](./Hafta-04-Kapsulleme.md) | Mini Proje 1 |
+| **4** | Kapsülleme (Encapsulation) ve Erişim Belirleyiciler | [Hafta 4 Notları](./Hafta-04-Kapsulleme.md) | - |
 | **5** | Kalıtım (Inheritance) - I | Belirlenmedi | - |
 | **6** | Kalıtım (Inheritance) - II (Çoklu Kalıtım ve `super()`) | Belirlenmedi | - |
 | **7** | Çok Biçimlilik (Polymorphism) ve Metot Ezme | Belirlenmedi | Vize Hazırlık |
 | **8** | **Ara Sınav (Vize) Haftası** | - | - |
 | **9** | Soyutlama (Abstraction) ve Soyut Sınıflar | Belirlenmedi | - |
-| **10** | İleri Düzey Sınıf Özellikleri (Class & Static Methods) | Belirlenmedi | Mini Proje 2 |
+| **10** | İleri Düzey Sınıf Özellikleri (Class & Static Methods) | Belirlenmedi | - |
 | **11** | Hata Yakalama (Exception Handling) ve Özel Hatalar | Belirlenmedi | - |
 | **12** | Python'da Dosya İşlemleri ve Nesne Serileştirme | Belirlenmedi | - |
 | **13** | Modüller ve Paket Yönetimi | Belirlenmedi | - |
